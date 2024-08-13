@@ -1,0 +1,1 @@
+# vim-azerbaijani-utf-8
